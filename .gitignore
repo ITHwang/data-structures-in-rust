@@ -16,3 +16,7 @@ Cargo.lock
 # replit
 .replit
 replit.nix
+
+# Added by cargo
+
+/target

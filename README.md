@@ -1,5 +1,8 @@
 # data-structures-in-rust
 
+# Setup
+- version: 1.74.1(check `rustc --version`)
+
 # std::collections
 1. Sequences: Vec, VecDeque, LinkedList
 2. Maps: HashMap, BTreeMap
