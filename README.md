@@ -11,3 +11,10 @@
 
 # Order
 1. LinkedList
+
+# References
+
+## YouTube
+
+- [Ryan Levick](https://youtube.com/@RyanLevicksVideos?si=o-iwy1HZv5rAIxQc)
+    - Rustacean youtuber who teaches rust concepts, collection implementations, etc.
